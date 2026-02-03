@@ -8,9 +8,9 @@ spreadsheet, and each empty cell can be filled with a metric (see below). There 
 
 #### Documentation Widget
 
-The documentation widget is located along the right edge of the canvas. Clicking on the documenation widget opens a
+The documentation widget is located along the right edge of the canvas. Clicking on the documentation widget opens a
 documentation sidebar, giving quick access for modelling help.
-![The Documentaiton Sidebar](/img/docs/Documentation-Widget-Open.png)
+![The Documentation Sidebar](/img/docs/Documentation-Widget-Open.png)
 
 #### Canvas Toolbar
 
