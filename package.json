@@ -25,7 +25,7 @@
   },
   "pnpm": {
     "overrides": {
-      "zod": "4.1.13",
+      "zod": "4.6.7",
       "braces@<3.0.3": ">=3.0.3",
       "micromatch@<4.0.8": ">=4.0.8",
       "picomatch@<2.3.2": ">=2.3.2",
@@ -51,13 +51,16 @@
       "mermaid@>=11 <11.16.1": "11.16.1",
       "baseline-browser-mapping@<2.11.0": "2.11.0",
       "katex@<0.18.2": "0.18.2"
+    },
+    "patchedDependencies": {
+      "nextra-theme-docs@4.6.1": "patches/nextra-theme-docs@4.6.1.patch"
     }
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.10",
     "@types/node": "20.11.24",
     "@types/pako": "^2.0.3",
     "@types/react": "^19",
-    "@tailwindcss/postcss": "^4.1.10",
     "autoprefixer": "^10.4.17",
     "eslint": "^9.0.0",
     "eslint-config-next": "16.4.2",
